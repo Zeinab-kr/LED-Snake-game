@@ -1,1 +1,2 @@
 # LED-Snake-game
+The project is a simple Snake game implemented on an Arduino Uno board using a 16x16 LED matrix composed of four 8x8 matrices, each controlled by a MAX7219 LED driver. The game involves controlling the movement of a snake within the 16x16 grid by four push buttons while avoiding collisions with the walls of the grid and the snake's own body. The LED matrix displays the game graphics and updates in real-time based on the game logic.
